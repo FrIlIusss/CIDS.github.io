@@ -1,0 +1,27 @@
+body, h1,h2,h3,h4,h5,h6,p,ol,ul {
+    margin: 0;
+    padding: 10;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+
+.SCAM a {
+    color: blueviolet;
+    transition: all 1s;
+}
+
+.SCAM a:hover {
+    color:aquamarine;
+}
+
+html {
+    background-color: rgb(13,6,0);
+}
+
+
+header {
+    display: flex;
+}
+
